@@ -3,3 +3,9 @@ main
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
 }
+.cabecera
+{
+    text-align: center;
+    font-family: monospace;
+     border: blue solid;
+}
